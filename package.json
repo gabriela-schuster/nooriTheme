@@ -4,7 +4,7 @@
     "publisher": "indigo",
     "description": "a dark, easy on the eyes theme",
     "icon": "nooriLogo.png",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "engines": {
         "vscode": "^1.56.0"
     },
